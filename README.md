@@ -9,5 +9,6 @@ after "nodemon index.js" and "nodemon bot.js" for start express server or
 "npm run start" and "npm run startbot"
 
 #### On client folder
+replace "yourserver" in axios on your server route name 
 command "node init -y" and "node install"
 after "nodemon client.js"
