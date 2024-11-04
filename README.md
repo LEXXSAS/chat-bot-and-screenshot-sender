@@ -5,6 +5,8 @@ Script for creating screenshots of local host and sending to server with bot for
 
 #### On server folder
 command "node init -y" and "node install"
+create .env file and add token in variable "BOT_TOKEN"
+>
 after "nodemon index.js" and "nodemon bot.js" for start express server or
 "npm run start" and "npm run startbot"
 
